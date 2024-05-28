@@ -24,10 +24,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Java Scratch.Estrutura.executor": "Run",
     "Java Scratch.Programa.executor": "Run",
     "Java Scratch.Programa1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USUÁRIO/Desktop/Fernando/projetos/Curso-Java-2024",
     "onboarding.tips.debug.path": "C:/Users/USUÁRIO/Desktop/Fernando/projetos/Curso-Java-2024/src/Main.java",
     "settings.editor.selected.configurable": "configurable.group.appearance"
   },
